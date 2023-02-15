@@ -4,7 +4,7 @@
 base_info:
   title: 妖居小憩 # Site title
   author: Yelf#妖妖 # Author name
-  url: https://redefine.ohevan.com # Site url
+  url: https://ye1f.online # Site url
   # Logo image (You can use local image, image external link or don’t fill)
   logo_img: # logo image on the left of the navigation bar
 
@@ -89,13 +89,16 @@ menu: #you can customize, i18n files are in the theme's languages folder. fa-reg
   # Status: 
   #   path: https://status.evanluo.top/
   #   icon: fa-regular fa-chart-bar
-  # About: 
-  #   icon: fa-regular fa-user
-  #   submenus:
+  About: 
+   icon: fa-regular fa-user
+   submenus:
   #     Me: /about
   #     Github: https://github.com/EvanNotFound/hexo-theme-redefine
   #     Blog: https://ohevan.com
-  #     Friends: /friends
+       Friends: /friends
+  Links:  
+    icon: fa-regular fa-link  
+    path: /links 
   # Links: 
   #   icon: fa-regular fa-link
   #   submenus:
@@ -275,8 +278,8 @@ fontawesome: # select fontawesome versions you want to use, in order to reduce t
 # ---------------------------------------------------------------------------------------
 footer:
   runtime: true # show website running time or not
-  start_time: 2022/8/17 11:45:14 # the starting time of your website, format: yyyy/mm/dd hh:mm:ss
-  customize:  # customize footer message, can be html code
+  start_time: 2023/2/14 11:45:14 # the starting time of your website, format: yyyy/mm/dd hh:mm:ss
+  customize:  <img src="https://api.netlify.com/api/v1/badges/d8c539f4-2d47-4158-8660-9da0fce51351/deploy-status" alt="Netlify"> # customize footer message, can be html code
   icp: # ICP record number of your website, Can be null
 
 # ---------------------------------------------------------------------------------------
