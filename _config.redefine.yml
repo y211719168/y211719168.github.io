@@ -3,7 +3,7 @@
 # ---------------------------------------------------------------------------------------
 base_info:
   title: 妖居小憩 # Site title
-  author: Yelf#妖妖 # Author name
+  author: Yelf # Author name
   url: https://ye1f.online # Site url
   # Logo image (You can use local image, image external link or don’t fill)
   logo_img: # logo image on the left of the navigation bar
@@ -67,13 +67,13 @@ style:
 # Social contact link
 # ---------------------------------------------------------------------------------------
 social_contact: # social contact icons in the first screen, you can add more by using fontawesome icon names
-  enable: false 
+  enable: true 
   links:
-    github:  # your GitHub URL
-    instagram: # your Instagram URL
-    zhihu:  # your ZhiHu URL
-    twitter:  # your twitter URL
-    email:  # your email
+    #github:  # your GitHub URL
+    #zhihu:  # your ZhiHu URL
+    #twitter:  # your twitter URL
+    email: y2086519059@outlook.com
+    bilibili: https://space.bilibili.com/291873078?spm_id_from=444.41.0.0
     # ...... # you can add more
 
 # ---------------------------------------------------------------------------------------
@@ -92,13 +92,13 @@ menu: #you can customize, i18n files are in the theme's languages folder. fa-reg
   About: 
    icon: fa-regular fa-user
    submenus:
-  #     Me: /about
-  #     Github: https://github.com/EvanNotFound/hexo-theme-redefine
+      Me: /about
+  #he     Github: https://github.com/EvanNotFound/hexo-theme-redefine
   #     Blog: https://ohevan.com
-       Friends: /friends
+  #    Friends: /friends
   Links:  
-    icon: fa-regular fa-link  
-    path: /links 
+   icon: fa-regular fa-link  
+   path: /links 
   # Links: 
   #   icon: fa-regular fa-link
   #   submenus:
