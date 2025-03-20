@@ -293,7 +293,7 @@ aside:
       link: https://space.bilibili.com/291873078?spm_id_from=333.1365.0.0
   card_announcement:
     enable: true
-    content: This is my Blog
+    content: 'w'
   card_recent_post:
     enable: true
     # If set 0 will show all
