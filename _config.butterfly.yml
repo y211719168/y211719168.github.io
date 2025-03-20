@@ -91,7 +91,7 @@ category_img: https://s21.ax1x.com/2025/03/18/pEd7uGD.png
 category_per_img: https://s21.ax1x.com/2025/03/18/pEd7uGD.png
 
 # The background image of footer
-footer_img: false 
+footer_img: true 
 
 # Website Background
 # Can set it to color or image url
@@ -99,9 +99,9 @@ background: https://s21.ax1x.com/2025/03/18/pEd7lMd.png
 
 cover:
   # Disable the cover or not
-  index_enable: false
-  aside_enable: false
-  archives_enable: false
+  index_enable: true
+  aside_enable: true
+  archives_enable: ture
   # When cover is not set, the default cover is displayed
   default_cover:  https://s21.ax1x.com/2025/03/18/pEd7lMd.png
     # - xxx.jpg
@@ -125,7 +125,7 @@ post_meta:
     # Choose: date / relative
     date_format: date
     categories: true
-    tags: false
+    tags: true
     label: true
   post:
     # Choose: left / center
@@ -145,9 +145,9 @@ post_meta:
 # The top_img settings of home page
 # default: top img - full screen, site info - middle
 # The position of site info, eg: 300px/300em/300rem/10%
-index_site_info_top: 300px/300em/300rem/10%
+index_site_info_top: 
 # The height of top_img, eg: 300px/300em/300rem
-index_top_img_height: 300px/300em/300rem
+index_top_img_height: 
 
 # The subtitle on homepage
 subtitle:
@@ -164,9 +164,11 @@ subtitle:
   # 1 - hitokoto.cn
   # 2 - https://api.aa1.cn/doc/yiyan.html
   # 3 - jinrishici.com
-  source: false
+  source: true
   # If you close the typewriter effect, the subtitle will only show the first line of sub
   sub:
+      - 莲瓣入水而不苦根茎
+      - 勿执着
 
 # Article layout on the homepage
 # 1: Cover on the left, info on the right
@@ -176,7 +178,7 @@ subtitle:
 # 5: Info displayed on the cover
 # 6: Masonry layout - Cover on top, info on the bottom
 # 7: Masonry layout - Info displayed on the cover
-index_layout: 1
+index_layout: 3
 
 # Display the article introduction on homepage
 # 1: description
