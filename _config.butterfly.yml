@@ -103,7 +103,7 @@ cover:
   aside_enable: true
   archives_enable: ture
   # When cover is not set, the default cover is displayed
-  default_cover:  https://s21.ax1x.com/2025/03/18/pEd7lMd.png
+  default_cover:  https://s21.ax1x.com/2025/03/18/pEd7nPO.png
     # - xxx.jpg
 
 # Replace Broken Images
@@ -293,7 +293,7 @@ aside:
       link: https://space.bilibili.com/291873078?spm_id_from=333.1365.0.0
   card_announcement:
     enable: true
-    content: 'w'
+    content: ' ’w’'
   card_recent_post:
     enable: true
     # If set 0 will show all
