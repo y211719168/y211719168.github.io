@@ -17,10 +17,10 @@ jobs:
           submodules: recursive
           fetch-depth: '0'
       
-      - name: Use Node.js 20
+      - name: Use Node.js 22
         uses: actions/setup-node@v4
         with:
-          node-version: "20"
+          node-version: "22"
       
       - name: Cache NPM dependencies
         uses: actions/cache@v4
