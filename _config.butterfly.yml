@@ -292,7 +292,7 @@ aside:
       link: https://space.bilibili.com/291873078?spm_id_from=333.1365.0.0
   card_announcement:
     enable: true
-    content: 'Good morning, and in case I don't see you, Good afternoon, Good evening, And good night.' 
+    content: '早安午安晚安' 
   card_recent_post:
     enable: true
     # If set 0 will show all
