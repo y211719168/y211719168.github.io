@@ -55,8 +55,7 @@ social:
 # Image Settings
 # --------------------------------------
 
-favicon: /img/favicon.png
-
+favicon: \img\favicon.ico
 avatar:
   img: https://s21.ax1x.com/2025/03/19/pEdLbBd.jpg
   effect: false
