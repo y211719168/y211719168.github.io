@@ -1,0 +1,7 @@
+#wb_bg
+{
+background: #154599;
+background: -webkit-radial-gradient(ellipse farthest-corner at bottom left, #154599 10%, #E5CAB9 98%);
+background: -moz-radial-gradient(ellipse farthest-corner at bottom left, #154599 10%, #E5CAB9 98%);
+background: radial-gradient(ellipse farthest-corner at bottom left, #154599 10%, #E5CAB9 98%);
+}
