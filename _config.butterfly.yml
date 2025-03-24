@@ -611,7 +611,7 @@ facebook_comments:
 # Twikoo
 # https://github.com/imaegoo/twikoo
 twikoo:
-  envId: preeminent-melomakarona-b72a6c.netlify.app
+  envId: https://preeminent-melomakarona-b72a6c.netlify.app/.netlify/functions/twikoo
   region:
   # Use Twikoo visitor count as the page view count
   visitor: true
