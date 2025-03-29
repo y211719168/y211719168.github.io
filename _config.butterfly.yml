@@ -50,7 +50,7 @@ social:
   fab fa-github: https://github.com/y211719168/ || Github || '#24292e'
   fas fa-envelope: mailto:y2086519059@outlook.com || Email || '#4a7dbe'
   fa-brands fa-bilibili: https://space.bilibili.com/291873078 || Bilibili || '#00AEEC'
-  fas fa-rss: https://ye1f.xin/atom.xml
+  fas fa-rss: /atom.xml || 订阅-RSS
 
 # --------------------------------------
 # Image Settings
@@ -1110,4 +1110,4 @@ CDN:
     # waline_css:
     # waline_js:
 
-  rss: /atom.xml
+  rss:  /atom.xml
